@@ -1,0 +1,6 @@
+homepage: "https://apprl.com/"
+versions:
+  # Latest version
+  - sha: c69783bf2bb4b745e51b93822cc8323cdadf515e
+    changeNotes: Initial release.
+  # Older versions
